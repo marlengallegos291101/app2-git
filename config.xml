@@ -11,7 +11,7 @@ version ="1.0.0">
 aplicacion que muestra informacion sobre la especialidad de Tecnico en Programacion CBTis
 </description>
 
-<author href="https://build.phonegap.com" emal="gallegosmarlen10@gmail.com">
+<author href="https://build.phonegap.com" email="gallegosmarlen10@gmail.com">
 Maria Marlen Largo Gallegos
 </author>
 
@@ -37,7 +37,6 @@ Maria Marlen Largo Gallegos
 <plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--colocar icono app-->
-
 <icon src="res/android/mdpi.png"/>
 
 </widget>
